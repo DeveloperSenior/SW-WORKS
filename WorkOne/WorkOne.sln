@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOne", "WorkOne\WorkOne.csproj", "{EBB35553-3B51-4C31-B30D-5799EFE70879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB35553-3B51-4C31-B30D-5799EFE70879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB35553-3B51-4C31-B30D-5799EFE70879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB35553-3B51-4C31-B30D-5799EFE70879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB35553-3B51-4C31-B30D-5799EFE70879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED32EE5-C237-446C-9D6D-2468F7770C97}
+	EndGlobalSection
+EndGlobal
