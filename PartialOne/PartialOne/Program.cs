@@ -33,7 +33,7 @@ namespace PartialOne
             double prom;
             double sum = 0;
             int count = 0;
-            while (count <= n)
+            while (count < n)
             {
                 Console.Write("Ingresa la altura: ");
                 sum += double.Parse(Console.ReadLine());
@@ -51,7 +51,7 @@ namespace PartialOne
             int par = 0;
             double impar = 0;
             int count = 0;
-            while (count <= n)
+            while (count < n)
             {
                 Console.Write("Ingresa el numero: ");
                 int number = int.Parse(Console.ReadLine());
